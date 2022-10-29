@@ -3,7 +3,7 @@ package sem2;
 public class task1 {
     // Найти все пути получения 10 из 3 с помощь. +2 и *2
     public static void main(String[] args) {
-        findPath(3, 10, 2, 2, "");
+        findPath(1, 729, 2, 2, "");
     }
     // K1 - сложили
     // K2 - умножили
@@ -13,8 +13,8 @@ public class task1 {
             System.out.println(path);
             return;
         }
-        findPath(source + addent, target, addent, multiplier, path + " K1");
-        findPath(source * multiplier, target, addent, multiplier, path + " K2");
+        findPath(source * addent + 1, target, addent, multiplier, path + " K1");
+        findPath(source * multiplier - 1, target, addent, multiplier, path + " K2");
     }
 }
 
