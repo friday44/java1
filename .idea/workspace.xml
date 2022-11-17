@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20c23eb8-6dae-42b4-9f8a-e53ed1a35856" name="Changes" comment="dz3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz4/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dz4/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem4/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem4/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem4/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem5/Quiz.java" afterDir="false" />
+    <list default="true" id="20c23eb8-6dae-42b4-9f8a-e53ed1a35856" name="Changes" comment="dz4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz5/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz5/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz5/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem5/ExampleMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sem5/Quiz.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667032527147</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dz4">
+      <created>1667978404319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667978404319</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +177,7 @@
     <MESSAGE value="dz1edit" />
     <MESSAGE value="dz2" />
     <MESSAGE value="dz3" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz3" />
+    <MESSAGE value="dz4" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz4" />
   </component>
 </project>
